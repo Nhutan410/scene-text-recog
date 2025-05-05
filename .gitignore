@@ -135,3 +135,4 @@ venv.bak/
 # Bỏ qua thư mục chứa dữ liệu và trọng số model
 datasets/
 weights/
+runs/
